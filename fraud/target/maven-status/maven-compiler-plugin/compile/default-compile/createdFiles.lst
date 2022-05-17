@@ -1,0 +1,6 @@
+ru\dron\fraud\FraudCheckHistory$FraudCheckHistoryBuilder.class
+ru\dron\fraud\FraudCheckHistory.class
+ru\dron\fraud\FraudCheckService.class
+ru\dron\fraud\FraudApplication.class
+ru\dron\fraud\FraudCheckHistoryRepository.class
+ru\dron\fraud\FraudController.class
