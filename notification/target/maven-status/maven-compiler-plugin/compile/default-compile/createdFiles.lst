@@ -1,8 +1,0 @@
-ru\dron\notification\Notification$NotificationBuilder.class
-ru\dron\notification\NotificationConfig.class
-ru\dron\notification\NotificationRepository.class
-ru\dron\notification\NotificationService.class
-ru\dron\notification\rabbitmq\NotificationConsumer.class
-ru\dron\notification\NotificationController.class
-ru\dron\notification\NotificationApplication.class
-ru\dron\notification\Notification.class

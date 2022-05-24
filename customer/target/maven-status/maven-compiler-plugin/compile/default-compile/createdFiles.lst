@@ -1,8 +1,0 @@
-ru\dron\customer\CustomerController.class
-ru\dron\customer\Customer$CustomerBuilder.class
-ru\dron\customer\CustomerService.class
-ru\dron\customer\CustomerRepository.class
-ru\dron\customer\Customer.class
-ru\dron\customer\CustomerRegistrationRequest.class
-ru\dron\customer\CustomerApplication.class
-ru\dron\customer\CustomerConfig.class
